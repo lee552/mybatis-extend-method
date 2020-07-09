@@ -8,7 +8,6 @@ import org.apache.ibatis.mapping.MappedStatement;
 import org.apache.ibatis.mapping.SqlSource;
 
 import java.util.Objects;
-import java.util.concurrent.locks.LockSupport;
 
 import static java.util.stream.Collectors.joining;
 
